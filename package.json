@@ -1,0 +1,8 @@
+{
+	"name": "meh",
+	"version": "0.0.1",
+	"author": "Alejandro Perezpayá",
+	"devDependencies": {
+		"mocha": "*"
+	}
+}

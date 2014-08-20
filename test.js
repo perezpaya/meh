@@ -1,5 +1,5 @@
-var assert = require('assert')
-require('./lib')
+var assert = require('assert');
+require('./lib');
 
 describe('Array', function(){
   describe('#equals()', function(){
@@ -14,6 +14,10 @@ describe('Array', function(){
 		assert.equal(['a'].equals('a'), false);
     });
   });
+
+  // describe('#map()', function (){
+  // });
+
 });
 
 describe('String', function (){

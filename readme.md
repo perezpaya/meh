@@ -23,7 +23,7 @@ require('meh');
 
 '{0} and {1} are happy'.format('Paca', 'Pedro');
 -> 'Paca and Pedro are happy'
- 
+
 '{0} and {1} car'.format(['Blue', 'Green', 'Yellow']);
 -> 'Blue and Green car'
 ```

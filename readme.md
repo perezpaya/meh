@@ -12,6 +12,14 @@ require('meh');
 'Hola {0}'.format('hey');
 ```
 
+## meh
+
+### meh.random(length)
+```javascript
+meh.random(16)
+-> 'asvdad'
+```
+
 ## String
 
 ### String.prototype.format()

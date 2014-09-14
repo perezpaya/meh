@@ -1,6 +1,6 @@
 {
 	"name": "meh",
-	"version": "0.0.2",
+	"version": "0.0.3",
 	"author": "Alejandro Perezpayá",
 	"main": "./lib.js",
 	"devDependencies": {

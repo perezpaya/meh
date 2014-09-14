@@ -61,3 +61,11 @@ Array.prototype.map = function (mapCallback, endCallback){
 	}
 
 };
+
+function Meh () {}
+
+Meh.prototype.random = function (length){
+  return Math.random().toString(36).replace(/[^a-z]+/g, '').substring(0, length);
+}
+
+global.meh = new Meh();
